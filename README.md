@@ -1,6 +1,6 @@
-# LeetCode Difficulty Hider 🔒
+# BlindCode 🔒
 
-**LeetCode Difficulty Hider** is a simple, lightweight Chrome extension that helps you practice coding problems on [LeetCode](https://leetcode.com) without the bias of difficulty labels like **Easy**, **Medium**, or **Hard**.
+**BlindCode** is a simple, lightweight Chrome extension that helps you practice coding problems on [LeetCode](https://leetcode.com) without the bias of difficulty labels like **Easy**, **Medium**, or **Hard**.
 
 ---
 
